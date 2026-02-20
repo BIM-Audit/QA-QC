@@ -1,0 +1,7 @@
+{
+  "name": "Multi Document Analyzer and Comparison-R35_Test",
+  "description": "A web application to analyze PDF files, extract key information, and then compare that information with new data entered by the user.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
